@@ -3,7 +3,7 @@
 
 # Languages
 
-![Solidity](https://img.shields.io/badge/Solidity-#363636.svg?&style=for-the-badge&logo=Solidity&logoColor=blue)
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=Solidity&logoColor=blue)
 
 # 💰 Airdrop Guide
 
