@@ -19,9 +19,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-# 💰 Airdrop Guide
+## 📌 Airdrop Guide
 
-![Link](https://ksh-story.tistory.com/)
+👉 [에어드랍으로 코인 받는 법이 궁금하다면? 가이드 보러가기](https://ksh-story.tistory.com/)
 
 
 
