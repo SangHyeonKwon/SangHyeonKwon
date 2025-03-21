@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SH KWON
+# 👋 Hi, there
 
 🚀 **Interested in Airdrops?**  
 👉 [에어드랍으로 코인 받는 법이 궁금하다면? 가이드 보러가기](https://ksh-story.tistory.com/)
