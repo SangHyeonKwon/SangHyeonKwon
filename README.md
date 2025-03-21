@@ -1,6 +1,11 @@
 # 👋 Hi, I'm SH KWON
 
-## BaekJoon
+🚀 **Interested in Airdrops?**  
+👉 [에어드랍으로 코인 받는 법이 궁금하다면? 가이드 보러가기](https://ksh-story.tistory.com/)
+
+---
+
+## 📊 BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonsanghyeon3245)](https://solved.ac/kwonsanghyeon3245/)
 
 ## 🛠 Tech Stack
@@ -20,11 +25,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-## 📌 Airdrop Guide
-
-👉 [에어드랍으로 코인 받는 법이 궁금하다면? 가이드 보러가기](https://ksh-story.tistory.com/)
-
-
-
-
