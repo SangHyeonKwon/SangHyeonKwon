@@ -3,7 +3,10 @@
 
 # Languages
 
+## Smart Contract
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=Solidity&logoColor=blue)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white)
 
 # 💰 Airdrop Guide
 
