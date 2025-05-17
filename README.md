@@ -8,7 +8,7 @@
 - 🔹 Solana Degen plays & on-chain activity (Bloom, Trojan, BullX)
 - 🔹 Meme coin narratives & trends  (pump.fun & gmgn)
 - 🔹 Layer 1 & Layer 2 ecosystems
-- 🔹 MEV strategies & on-chain execution  
+- 🔹 MEV strategies & on-chain execution  (Ethereum)
 
 ---
 
