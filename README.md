@@ -5,7 +5,7 @@
 👉 [에어드랍으로 코인 받는 법이 궁금하다면? 가이드 보러가기](https://ksh-story.tistory.com/)
 
 - 🔹 Spot & Futures trading across CEXs and DEXs
-- 🔹 Solana Degen plays & on-chain activity (Bloom)
+- 🔹 Solana Degen plays & on-chain activity (Bloom, Trojan, BullX)
 - 🔹 Meme coin narratives & trends  (pump.fun & gmgn)
 - 🔹 Layer 1 & Layer 2 ecosystems
 - 🔹 MEV strategies & on-chain execution  
