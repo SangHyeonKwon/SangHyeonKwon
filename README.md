@@ -2,7 +2,7 @@
 
 🚀 **Interested in Web3, MEV, and Crypto Projects?**  
 📬 Let’s Contact! [kwonsanghyeon3245@gmail.com](mailto:kwonsanghyeon3245@gamil.com)
-👉 [에어드랍으로 코인 받는 법이 궁금하다면? 가이드 보러가기](https://ksh-story.tistory.com/)
+👉 [Airdrop Guide](https://ksh-story.tistory.com/)
 
 - 🔹 Spot & Futures trading across CEXs and DEXs
 - 🔹 Solana Degen plays & on-chain activity (Bloom, Trojan, BullX)
