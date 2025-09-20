@@ -2,10 +2,9 @@
 
 🚀 **Interested in Web3, MEV, and Crypto Projects?**  
 📬 Let’s Contact! [kwonsanghyeon3245@gmail.com](mailto:kwonsanghyeon3245@gamil.com)
-👉 [Airdrop Guide](https://ksh-story.tistory.com/)
 
 - 🔹 Spot & Futures trading across CEXs and DEXs
-- 🔹 Solana Degen plays & on-chain activity (Bloom, Trojan, BullX)
+- 🔹 Solana Degen plays & on-chain activity (Axiom, OKX Dex)
 - 🔹 Meme coin narratives & trends  (pump.fun & gmgn)
 - 🔹 Layer 1 & Layer 2 ecosystems
 - 🔹 MEV strategies & on-chain execution  (Ethereum)
