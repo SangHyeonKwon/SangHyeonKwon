@@ -1,13 +1,11 @@
 # 👋 Hi, there
 
-🚀 **Interested in Web3, MEV, and Crypto Projects?**  
+🚀 **Interested in Web3, MEV, and Crypto**  
 📬 Let’s Contact! [kwonsanghyeon3245@gmail.com](mailto:kwonsanghyeon3245@gamil.com)
 
-- 🔹 Spot & Futures trading across CEXs and DEXs
-- 🔹 Solana Degen plays & on-chain activity (Axiom, OKX Dex)
-- 🔹 Meme coin narratives & trends  (pump.fun & gmgn)
-- 🔹 Layer 1 & Layer 2 ecosystems
-- 🔹 MEV strategies & on-chain execution  (Ethereum)
+- 🔹 Spot & Futures trading across CEX
+- 🔹 Meme coin Degen (SOL BNB)
+- 🔹 MEV strategies (FlashLoan - Arbitrage)
 
 ---
 
