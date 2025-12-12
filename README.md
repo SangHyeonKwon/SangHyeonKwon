@@ -1,7 +1,7 @@
 # 👋 Hi, there
 
 🚀 **BlockChain, MEV, and Crypto**  
-📬 Let’s Contact! [kwonsanghyeon3245@gmail.com](mailto:kwonsanghyeon3245@gamil.com)
+📬 Let’s Contact! [Telegram](https://t.me/perfect_attendance)
 
 - Spot & Futures trading across CEX
 - Meme coin Degen (SOL BNB)
