@@ -1,5 +1,5 @@
 **BlockChain, Crypto, Stock**  
-📬 Let’s Contact! [Telegram](https://t.me/perfect_attendance)
+Let’s Contact! [Telegram](https://t.me/perfect_attendance)
 
 - Spot & Futures trading
 - Meme coin Degen (SOL BNB BASE.)
