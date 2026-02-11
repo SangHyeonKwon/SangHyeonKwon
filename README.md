@@ -2,8 +2,8 @@
 Let’s Contact! [Telegram](https://t.me/perfect_attendance)
 
 - Spot & Futures trading
-- Meme coin Degen (SOL BNB BASE.)
-- Arbitrage (between DEX, SPOT, FUTURES GAP + Korean Market (Bithumb, Upbit))
+- Meme (SOL BNB BASE.)
+- Arbitrage (between anywhere)
 - MEV strategies (FlashLoan - Arbitrage)
 
 ---
