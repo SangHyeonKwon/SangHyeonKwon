@@ -7,6 +7,6 @@ Let’s Contact! [Telegram](https://t.me/perfect_attendance)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Full stack / Smart Contract
