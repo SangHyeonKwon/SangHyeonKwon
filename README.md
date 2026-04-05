@@ -1,6 +1,4 @@
-**BlockChain, Crypto, Stock**  
-Let’s Contact! [Telegram](https://t.me/perfect_attendance)
-
+## BlockChain, Crypto, Stock, All in Web3
 - Spot/Futures & Meme
 - Arbitrage
 - MEV strategies etc...
