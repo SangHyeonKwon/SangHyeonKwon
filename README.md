@@ -1,7 +1,8 @@
-## BlockChain, Crypto, Stock, All in Web3
+## All in Web3
 - Spot/Futures & Meme
 - Arbitrage
-- MEV strategies etc...
+- Onchain strategies etc...
+- Building for MEV
 
 ---
 
