@@ -2,7 +2,7 @@
 - Spot/Futures & Meme
 - Arbitrage
 - Onchain strategies etc...
-- Building for MEV
+- Build for all
 
 ---
 
