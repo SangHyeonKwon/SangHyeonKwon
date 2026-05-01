@@ -2,7 +2,7 @@
 - Spot/Futures & Meme
 - Arbitrage
 - Onchain strategies etc...
-- Build for all
+- Build for Society
 
 ---
 
